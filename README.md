@@ -3,9 +3,9 @@ Ce projet consiste en l'analyse exploratoire des données (EDA) d'un fichier de 
 
 Le projet inclut plusieurs étapes de prétraitement et d'analyse afin de comprendre les tendances, les patterns et les relations présentes dans les données. Ces étapes incluent :
 
-Chargement des données : Importation et visualisation initiale des données depuis un fichier.
-Nettoyage des données : Traitement des valeurs manquantes, conversion des types de données et gestion des valeurs aberrantes.
-Analyse des variables : Exploration de la répartition des accidents en fonction de différentes variables (âge, sexe, département, conditions de lumière, etc.).
+Chargement des données : Importation et visualisation initiale des données depuis un fichier. 
+Nettoyage des données : Traitement des valeurs manquantes, conversion des types de données et gestion des valeurs aberrantes. 
+Analyse des variables : Exploration de la répartition des accidents en fonction de différentes variables (âge, sexe, département, conditions de lumière, etc.). 
 Visualisations : Création de graphiques pour une meilleure compréhension des tendances et des relations dans les données, incluant des histogrammes, des diagrammes en barres, et des boxplots.
 
 # Objectifs de l'EDA
