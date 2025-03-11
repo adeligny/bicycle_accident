@@ -18,7 +18,7 @@ La répartition des accidents par département et leur corrélation avec des fac
 L'évolution des accidents sur une période donnée.
 
 # Structure du projet
-notebook/ : Dossier contenant le fichier Jupyter Notebook principal (eda.ipynb) avec toutes les étapes de l'analyse exploratoire.
-data/ : Dossier contenant le fichier de données des accidents de vélo (bicycle_accident.csv).
-README.md : Ce fichier, qui fournit des informations sur le projet.
+notebook/ : Dossier contenant le fichier Jupyter Notebook principal (eda.ipynb) avec toutes les étapes de l'analyse exploratoire.  
+data/ : Dossier contenant le fichier de données des accidents de vélo (bicycle_accident.csv).  
+README.md : Ce fichier, qui fournit des informations sur le projet.  
 doc.pdf : Fichier contenant le descriptif des variables ainsi que le contexte de la collecte des données.
