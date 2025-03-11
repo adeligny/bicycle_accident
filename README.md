@@ -22,3 +22,12 @@ notebook/ : Dossier contenant le fichier Jupyter Notebook principal (eda.ipynb) 
 data/ : Dossier contenant le fichier de données des accidents de vélo (bicycle_accident.csv).  
 README.md : Ce fichier, qui fournit des informations sur le projet.  
 doc.pdf : Fichier contenant le descriptif des variables ainsi que le contexte de la collecte des données.
+
+# Comment utiliser ce projet
+Clone ce projet sur ton ordinateur : git clone https://github.com/adeligny/bicycle_accident.git
+
+Installe les dépendances nécessaires : pip install -r requirements.txt
+
+Ouvre le fichier eda.ipynb dans Jupyter Notebook ou un autre environnement Python compatible.
+
+Exécute les cellules pour voir les résultats de l'analyse.
