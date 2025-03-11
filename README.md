@@ -11,10 +11,10 @@ Visualisations : Création de graphiques pour une meilleure compréhension des t
 # Objectifs de l'EDA
 L'objectif principal de cette analyse exploratoire des données (EDA) est de fournir un aperçu clair des accidents de vélo en examinant les variables clés comme :
 
-La répartition des accidents en fonction du sexe des individus impliqués.
-La fréquence des accidents selon la tranche d'âge.
-Les conditions de lumière et leur impact sur la fréquence des accidents.
-La répartition des accidents par département et leur corrélation avec des facteurs géographiques.
+La répartition des accidents en fonction du sexe des individus impliqués.  
+La fréquence des accidents selon la tranche d'âge.  
+Les conditions de lumière et leur impact sur la fréquence des accidents.  
+La répartition des accidents par département et leur corrélation avec des facteurs géographiques.  
 L'évolution des accidents sur une période donnée.
 
 # Structure du projet
