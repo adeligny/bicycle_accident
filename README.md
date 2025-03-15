@@ -1,3 +1,6 @@
+![alt text](bicycle_accident/Accident-cycloblog.png)
+
+
 # Description du projet
 Ce projet consiste en l'analyse exploratoire des données (EDA) d'un fichier de données relatif aux accidents de vélo. L'objectif est d'examiner, nettoyer, et comprendre les caractéristiques du jeu de données pour en extraire des informations utiles.
 
