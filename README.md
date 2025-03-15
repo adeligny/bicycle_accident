@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="33%" src="bicycle_accident/Accident-cycloblog.png">
+    <img width="33%" src="image.png">
 </p>
 
 # Description du projet
