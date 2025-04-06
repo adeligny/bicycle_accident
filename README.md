@@ -5,7 +5,7 @@
 # Description du projet
 Ce projet consiste en l'analyse exploratoire des données (EDA) d'un fichier de données relatif aux accidents de vélo. L'objectif est d'examiner, nettoyer, et comprendre les caractéristiques du jeu de données pour en extraire des informations utiles.
 
-Lien de la source de données : https://opendata.koumoul.com/datasets/accidents-velos.
+Lien de la source de données : https://opendata.koumoul.com/datasets/accidents-velos / https://www.data.gouv.fr/fr/datasets/accidents-de-velo/.
 
 Le projet inclut plusieurs étapes de prétraitement et d'analyse afin de comprendre les tendances, les patterns et les relations présentes dans les données. Ces étapes incluent :
 
