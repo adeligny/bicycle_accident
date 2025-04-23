@@ -5,6 +5,8 @@
 # Description du projet
 Ce projet consiste en l'analyse exploratoire des données (EDA) d'un fichier de données relatif aux accidents de vélo. L'objectif est d'examiner, nettoyer, et comprendre les caractéristiques du jeu de données pour en extraire des informations utiles.
 
+Nous avons également ajouté une partie prédictive permettant de prédire la probabilité d'avoir un accident de vélo : https://bicycleaccident.streamlit.app/.
+
 Lien de la source de données : https://opendata.koumoul.com/datasets/accidents-velos / https://www.data.gouv.fr/fr/datasets/accidents-de-velo/.
 
 Le projet inclut plusieurs étapes de prétraitement et d'analyse afin de comprendre les tendances, les patterns et les relations présentes dans les données. Ces étapes incluent :
@@ -37,3 +39,8 @@ Installe les dépendances nécessaires : pip install -r requirements.txt
 Ouvre le fichier eda.ipynb dans Jupyter Notebook ou un autre environnement Python compatible.
 
 Exécute les cellules pour voir les résultats de l'analyse.
+
+Auteurs :
+Anaïs DELIGNY
+Thomas ZHAO
+Mélina TU
