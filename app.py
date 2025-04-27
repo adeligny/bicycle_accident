@@ -6,10 +6,10 @@ import numpy as np
 import pickle
 
 # Charger le modèle et le scaler
-with open('C:\\Users\\Anaïs\\Downloads\\project_ba\\bicycle_accident\\notebook\\model_accident.pkl', 'rb') as f:
+with open('model_accident.pkl', 'rb') as f:
     model = pickle.load(f)
 
-with open('C:\\Users\\Anaïs\\Downloads\\project_ba\\bicycle_accident\\notebook\\scaler_accident.pkl', 'rb') as f:
+with open('scaler_accident.pkl', 'rb') as f:
     scaler = pickle.load(f)
 
 # Interface Streamlit
